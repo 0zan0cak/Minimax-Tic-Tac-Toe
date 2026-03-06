@@ -21,6 +21,6 @@ A classic Tic-Tac-Toe game with a desktop GUI built in core Java (Swing/AWT), fe
 
 1. Clone the repository and compile the Java file:
    ```bash
-   git clone [https://github.com/](https://github.com/)<Senin-Kullanici-Adin>/Minimax-Tic-Tac-Toe.git
+   git clone [https://github.com/0zan0cak/Boids-Flocking-Simulation.git](https://github.com/0zan0cak/Boids-Flocking-Simulation.git)
    javac TicTacToeGUI.java
    ```
